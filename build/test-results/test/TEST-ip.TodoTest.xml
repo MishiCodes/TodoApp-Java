@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ip.TodoTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2020-03-27T20:34:12" hostname="SDA-23-mbpro" time="0.011">
+  <properties/>
+  <testcase name="testEmptyTitle" classname="ip.TodoTest" time="0.007"/>
+  <testcase name="testIfProjectEmpty" classname="ip.TodoTest" time="0.0"/>
+  <testcase name="testIfProjectValid" classname="ip.TodoTest" time="0.0"/>
+  <testcase name="testTitle" classname="ip.TodoTest" time="0.001"/>
+  <testcase name="testIfTitleEmpty" classname="ip.TodoTest" time="0.0"/>
+  <testcase name="testIfDueDateHasCorrectFormat" classname="ip.TodoTest" time="0.001"/>
+  <testcase name="testIfDueDateHasPassed" classname="ip.TodoTest" time="0.0"/>
+  <testcase name="testIfNullTitle" classname="ip.TodoTest" time="0.0"/>
+  <testcase name="testIfDueDateValid" classname="ip.TodoTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
